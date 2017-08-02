@@ -17,5 +17,5 @@ https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_
 * yellow: SDA (pin D0)
 * green : SCL  (pin D1)
 
-Pull-ups used: 4.7k Ohm
+Pull-ups used: 4.7kΩ
 ![Image of Fritzing wiring](https://github.com/mariuspod/particle_sht21/blob/master/sht21_fritzing.png)
