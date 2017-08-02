@@ -36,7 +36,7 @@ typedef enum {
 } HUM_SENSOR_T;
 
 typedef enum {
-    eTempHoldCmd		= 0xE3,
+    eTempHoldCmd	= 0xE3,
     eRHumidityHoldCmd	= 0xE5,
     eTempNoHoldCmd      = 0xF3,
     eRHumidityNoHoldCmd = 0xF5,
